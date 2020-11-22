@@ -1,13 +1,151 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="3418" started-at="2020-11-08T15:54:59Z" finished-at="2020-11-08T15:55:02Z">
+  <suite name="Default suite" duration-ms="3756" started-at="2020-11-22T16:21:26Z" finished-at="2020-11-22T16:21:29Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="3418" started-at="2020-11-08T15:54:59Z" finished-at="2020-11-08T15:55:02Z">
+    <test name="Default test" duration-ms="3756" started-at="2020-11-22T16:21:26Z" finished-at="2020-11-22T16:21:29Z">
       <class name="api.SwaggerTestNG.API">
-        <test-method status="PASS" signature="Request()[pri:0, instance:api.SwaggerTestNG.API@46d56d67]" name="Request" duration-ms="3396" started-at="2020-11-08T15:54:59Z" finished-at="2020-11-08T15:55:02Z">
+        <test-method status="PASS" signature="Request(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:api.SwaggerTestNG.API@29774679]" name="Request" duration-ms="2949" started-at="2020-11-22T16:21:26Z" data-provider="readData" finished-at="2020-11-22T16:21:29Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[hornor]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[mobile]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[abc]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[def]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[mum]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[maha]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[nb]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[42.50]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[63.45]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[3]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[rajan]]>
+              </value>
+            </param>
+            <param index="11">
+              <value>
+                <![CDATA[8678]]>
+              </value>
+            </param>
+            <param index="12">
+              <value>
+                <![CDATA[xyz]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Request -->
+        <test-method status="PASS" signature="Request(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:api.SwaggerTestNG.API@29774679]" name="Request" duration-ms="291" started-at="2020-11-22T16:21:29Z" data-provider="readData" finished-at="2020-11-22T16:21:29Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[samsung]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[tablet]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[jj]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[hgh]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[NA]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[varanasi]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[hgjh]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[66]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[77]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[2]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[roshan]]>
+              </value>
+            </param>
+            <param index="11">
+              <value>
+                <![CDATA[8667]]>
+              </value>
+            </param>
+            <param index="12">
+              <value>
+                <![CDATA[khhgh]]>
+              </value>
+            </param>
+          </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Request -->
